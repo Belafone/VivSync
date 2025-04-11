@@ -15,3 +15,6 @@ DONATION_URL = "https://www.paypal.com/donate/?hosted_button_id=HYZ77JDJWY492"
 
 # Entfernte Einstellungen
 # CALENDAR_ID und API_KEY wurden entfernt, da sie nicht mehr benötigt werden
+
+# Aktuelle Version hinzufügen
+VERSION = "1.0.1"
